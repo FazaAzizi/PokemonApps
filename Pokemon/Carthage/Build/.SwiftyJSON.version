@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "f24777ec6d17d35a23ee7853a102cb5dfffe8aade2f9d37f17f3ab3c9cf9dba1",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "e66a8635fb3cb1ab8a2bca9b39f415662a3c45a9b0d2b665f3c462138ad0d233",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "c999b6fedc1171dffb66cc18e69afef07f2cc495b65f5196a832ff119eb6990a",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "b9eaf51c3c57eac43cb57b0739c3d641b89de6b5b659f054ead4b2ce50bfdc71",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "416dde0c97248317c34435b042df04a02db95f7e8b9368605f512ed26f9059f4",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "5.0.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "d17ad9709988e5bc47afd8838b00362834930d4f360066b1ecdceb975df0f50c",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "355f1aaed0b9e42246f14c5e3906a963add3507d496c829959757f6897980357",
+      "name" : "SwiftyJSON",
+      "container" : "SwiftyJSON.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
